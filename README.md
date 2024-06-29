@@ -23,8 +23,7 @@
     <section id="skills">
         <h2>Skills</h2>
         <ul>
-            <li><a href="skills/skill1.html">Skill 1</a></li>
-            <li><a href="skills/skill2.html">Skill 2</a></li>
+            ##Skills .Troubleshooting .network Design .CCNA System
             <!-- Add more skills here -->
         </ul>
     </section>
