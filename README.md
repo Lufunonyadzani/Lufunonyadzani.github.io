@@ -21,16 +21,16 @@
     <section id="Skills">
         <h2>Skills</h2>
         <ul>
-        <p>• Troubleshooting</p>
-        <p>• Network Design</p>
-        <p>• CCNA System</p>
+        <p>• Network management: Network monitoring, troubleshooting, optimization</p>
+        <p>• Network protocols: TCP/IP, DNS, DHCP, HTTP, FTP</p>
+        <p>• Network devices: Routers, switches, firewalls</p>
+        <p>• Network security: Access controls, encryption, firewalls, VPNs</p>
             <!-- Add more skills here -->
         </ul>
     </section>
     <section id="Projects">
         <h2>Projects</h2>
-        <ul>
-            <p>• Designed and implemented network topologies.</p>
+        <ul>        
             <p>• Designed and implemented network topologies.</p>
             <p>• Configured and installed domains and Active Directories.</p>
             <p>• Set up remote desktop connections and created system policies.</p>
