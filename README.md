@@ -12,7 +12,7 @@
 <body>
     <header>
         <img src="lufuno.jpg" height="100" width="200" alt="Profile Picture">
-        <h1>Welcome to my HTML Portfolio!</h1>
+        <h1>Hello, I'm Lufuno Nyadzani, Welcome to my HTML Portfolio!</h1>
     </header>
     <nav>
         <ul>
