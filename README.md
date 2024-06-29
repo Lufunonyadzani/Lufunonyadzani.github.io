@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-        <img src="images/c:/Users/Lufuno/Documents/projects/lufuno.jpg" alt="Profile Picture">
+        <img src="images/c:/Users/Lufuno/Documents/projects-lufuno.jpg" alt="Profile Picture">
         <h1>Welcome to my HTML Portfolio!</h1>
     </header>
     <nav>
