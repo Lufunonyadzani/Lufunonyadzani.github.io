@@ -21,9 +21,9 @@
     <section id="skills">
         <h2>Skills</h2>
         <ul>
-        <p>.Troubleshooting</p>
-        <p>.network Design</p>
-        <p>.CCNA System</p>
+        <p>• Troubleshooting</p>
+        <p>• Network Design</p>
+        <p>• CCNA System</p>
             <!-- Add more skills here -->
         </ul>
     </section>
@@ -42,8 +42,16 @@
             <p>• Configure RIP</p>
             <p>• Verify connectivity</p>
             <!-- Add more projects here -->
-        </ul>
+        </ul>       
     </section>
+     <section id="skills">
+         <ul>
+        <p>• Packet Tracer</p>
+        <p>• VirtualBox</p>
+        <p>• Virtual Studio Code</p>
+        <ul>
+         </section>
+         
     <script src="script.js"></script>
 </body>
 </html>
