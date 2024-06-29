@@ -15,8 +15,7 @@
     </header>
     <nav>
         <ul>
-            <li><a href="#skills">Skills</a></li>
-            <li><a href="#projects">Projects</a></li>
+           <p> Recently finished my theory-based modules. Highly effective junior network administrator motivated to learn and grow seeking an internship in a well-established company.</p>
         </ul>
     </nav>
     <section id="skills">
