@@ -32,12 +32,13 @@
     <section id="projects">
         <h2>Projects</h2>
         <ul>
-            • Designed and implemented network topologies.
-            • Configured and installed domains and Active Directories.
-            • Set up remote desktop connections and created system policies.
-            • Planned IP addresses using VLSM and configured VLANs.
-            • Configured dynamic routing (OSPF) and tested full network connectivity.
-            • Configured wireless security and VTP on switches.
+            <p> • Designed and implemented network topologies.</p>
+            <p>• Designed and implemented network topologies.</p>
+            <p>• Configured and installed domains and Active Directories.</p>
+            <p>• Set up remote desktop connections and created system policies.</p>
+            <p>• Planned IP addresses using VLSM and configured VLANs.</p>
+            <p>• Configured dynamic routing (OSPF) and tested full network connectivity.</p>
+            <p>• Configured wireless security and VTP on switches.</p>
             <!-- Add more projects here -->
         </ul>
     </section>
