@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-        <img src="C:\Users\Lufuno\Documents\projects alt="Profile Picture">
+        <img src=\Users\Lufuno\Documents\projects alt="Profile Picture">
         <h1>Welcome to my HTML Portfolio!</h1>
     </header>
     <nav>
@@ -32,13 +32,18 @@
     <section id="projects">
         <h2>Projects</h2>
         <ul>
-            <p> • Designed and implemented network topologies.</p>
+            <p>• Designed and implemented network topologies.</p>
             <p>• Designed and implemented network topologies.</p>
             <p>• Configured and installed domains and Active Directories.</p>
             <p>• Set up remote desktop connections and created system policies.</p>
             <p>• Planned IP addresses using VLSM and configured VLANs.</p>
             <p>• Configured dynamic routing (OSPF) and tested full network connectivity.</p>
             <p>• Configured wireless security and VTP on switches.</p>
+
+                 <p>• Plan for IP addresses using VLSM</p>
+                 <p>• Configure VLAN interconnection</p>
+                 <p>• Configure RIP</p>
+                 <p>• Verify connectivity</p>
             <!-- Add more projects here -->
         </ul>
     </section>
