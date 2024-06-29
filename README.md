@@ -52,6 +52,13 @@
         <p>• Virtual Studio Code</p>
         <ul>
          </section>
+     </section>
+     <section id="Certificate">
+         <h2>Certificate </h2>
+         <ul>
+        <p>• CCNA 1</p>       
+        <ul>
+         </section>
          
     
 </body>
