@@ -1,4 +1,4 @@
-# Hello, I'm Lufuno Nyadzani
+
 
 
 <!DOCTYPE html>
@@ -53,6 +53,6 @@
         <ul>
          </section>
          
-    <script src="script.js"></script>
+    
 </body>
 </html>
