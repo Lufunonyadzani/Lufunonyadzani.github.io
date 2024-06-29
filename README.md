@@ -18,7 +18,7 @@
            <p> Recently finished my theory-based modules. Highly effective junior network administrator motivated to learn and grow seeking an internship in a well-established company.</p>
         </ul>
     </nav>
-    <section id="skills">
+    <section id="Skills">
         <h2>Skills</h2>
         <ul>
         <p>• Troubleshooting</p>
@@ -27,7 +27,7 @@
             <!-- Add more skills here -->
         </ul>
     </section>
-    <section id="projects">
+    <section id="Projects">
         <h2>Projects</h2>
         <ul>
             <p>• Designed and implemented network topologies.</p>
@@ -44,7 +44,7 @@
             <!-- Add more projects here -->
         </ul>       
     </section>
-     <section id="skills">
+     <section id="Tools">
          <ul>
         <p>• Packet Tracer</p>
         <p>• VirtualBox</p>
