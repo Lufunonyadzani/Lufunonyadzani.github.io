@@ -39,11 +39,10 @@
             <p>• Planned IP addresses using VLSM and configured VLANs.</p>
             <p>• Configured dynamic routing (OSPF) and tested full network connectivity.</p>
             <p>• Configured wireless security and VTP on switches.</p>
-
-                 <p>• Plan for IP addresses using VLSM</p>
-                 <p>• Configure VLAN interconnection</p>
-                 <p>• Configure RIP</p>
-                 <p>• Verify connectivity</p>
+            <p>• Plan for IP addresses using VLSM</p>
+            <p>• Configure VLAN interconnection</p>
+            <p>• Configure RIP</p>
+            <p>• Verify connectivity</p>
             <!-- Add more projects here -->
         </ul>
     </section>
