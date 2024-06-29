@@ -32,8 +32,12 @@
     <section id="projects">
         <h2>Projects</h2>
         <ul>
-            <li><a href="projects/project1/">Project 1</a></li>
-            <li><a href="projects/project2/">Project 2</a></li>
+            • Designed and implemented network topologies.
+            • Configured and installed domains and Active Directories.
+            • Set up remote desktop connections and created system policies.
+            • Planned IP addresses using VLSM and configured VLANs.
+            • Configured dynamic routing (OSPF) and tested full network connectivity.
+            • Configured wireless security and VTP on switches.
             <!-- Add more projects here -->
         </ul>
     </section>
