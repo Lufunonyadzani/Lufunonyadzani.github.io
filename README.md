@@ -23,9 +23,9 @@
     <section id="skills">
         <h2>Skills</h2>
         <ul>
-        .Troubleshooting
-        .network Design
-        .CCNA System
+        <p>.Troubleshooting</p>
+        <p>.network Design</p>
+        <p>.CCNA System</p>
             <!-- Add more skills here -->
         </ul>
     </section>
